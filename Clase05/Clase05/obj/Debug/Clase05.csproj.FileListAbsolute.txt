@@ -1,0 +1,9 @@
+E:\Prog&Lab II\Clase05\Clase05\bin\Debug\Clase05.exe.config
+E:\Prog&Lab II\Clase05\Clase05\obj\Debug\Clase05.csprojResolveAssemblyReference.cache
+E:\Prog&Lab II\Clase05\Clase05\bin\Debug\Clase05.exe
+E:\Prog&Lab II\Clase05\Clase05\bin\Debug\Clase05.pdb
+E:\Prog&Lab II\Clase05\Clase05\obj\Debug\Clase05.exe
+E:\Prog&Lab II\Clase05\Clase05\obj\Debug\Clase05.pdb
+F:\Prog&Lab II\Clase05\Clase05\bin\Debug\Clase05.exe.config
+F:\Prog&Lab II\Clase05\Clase05\obj\Debug\Clase05.exe
+F:\Prog&Lab II\Clase05\Clase05\obj\Debug\Clase05.pdb
